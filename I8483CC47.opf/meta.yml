@@ -1,0 +1,30 @@
+id: I8483CC47
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T20:54:14.852578'
+last_modified: '2022-05-30T20:54:14.852584'
+parser: null
+source_metadata:
+  title: Gönpo Tseten Rinpoche Series
+  language: bo
+  description: 'Texts by the Nyingma teacher Gönpo Tseten Rinpoche (mgon po tshe brtan,
+    1906–1991) of Amdo:'
+  volume:
+    f162C:
+      title: 'A Bouquet of Uḍumbara Flowers: An Explanation of the Tenth Day'
+      base_file: f162C.txt
+      order: 1
+      parent: Commentaries
+    f0BAC:
+      title: Prayer to Orgyen Rinpoche Invoking His Wisdom Mind
+      base_file: f0BAC.txt
+      order: 2
+      parent: Guru Rinpoche Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
